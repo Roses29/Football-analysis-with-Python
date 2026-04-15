@@ -1,2 +1,2 @@
 # Football-analysis-with-Python
-Exploratory Data analysis on Bundesliga season 2021-2022
+Python practice project using Bundesliga's 2021-2022 season dataset. Analysis of players and teams performances. 
